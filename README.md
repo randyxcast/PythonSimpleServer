@@ -8,14 +8,14 @@ This is a small web application in Python which does the following:
 
 To run the file we need to create a set up a Local Programming Environment for Python 3 and install flask. Asuming Python3 and Pip is installed we can do the following:
 1. Open terminal and go to the directory containing the python file
-2. Run the next command to a local programing environment: 
+2. Run the next command to create a local programing environment: 
    $ python3 -m venv my_env
 3. Run the next command to activate the environment: 
    $ source my_env/bin/activate
 4. Run the next command to install flask: 
    $ pip install flask
    
-Note: make sure the enviroment is activated before running the file ($ source my_env/bin/activate).
+Note: make sure the environment is activated before running the file ($ source my_env/bin/activate).
    
 Now, we can test the server:
 1. Run the python file:
