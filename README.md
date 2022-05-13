@@ -13,7 +13,7 @@ To run the file we need to create a set up a Local Programming Environment for P
 3. Run the next command to activate the environment: 
    $ source my_env/bin/activate
 4. Run the next command to install flask: 
-   pip install flask
+   $ pip install flask
    
 Note: make sure the enviroment is activated before running the file ($ source my_env/bin/activate).
    
